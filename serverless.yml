@@ -3,7 +3,7 @@ service: my-google-function-usecase
 provider:
   name: google
   runtime: nodejs
-  project: my-project
+  project: My-Serverless-Project-1d8bacd4886d
   # the path to the credentials file needs to be absolute
   credentials: My-Serverless-Project-1d8bacd4886d.json
 
