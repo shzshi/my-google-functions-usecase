@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serverless-sit-217120",
+  "private_key_id": "4fdd26e7c32d8515a07834d173bc7e19d343c6b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQ2wycITN2Fpis\n8WzvcCxVuGb2vAM0LtfVO2/AxLSkMMqeWKIuGO1bUlBUCCO54Sk8ioyeC2BsAIwF\nyujE3kpyUE83TWDt7lMLdlrcvUNyKi0NFzM9dPRgUUGgKgkK5eVjXcY7DfC+R0cm\n77H3I3HXQUoO8ikAh7/DJcmRo12q6vIJnq6WR2FShQJwdHLXbDcjBdDChAILrPDG\nrRHXpDMtjJIR+yrKMRpmCXL1ARDE9nFjVtGZEwdgSv47HofweXWw0oh1O53VhVV1\nc2c2aEkP7eOCQLyulKyhqt4lIX1bpR0XLW+qGSG+a15fHBweHmPK3vkP6E9aMUsY\nNEqqwI9PAgMBAAECggEARaUl+VJg9LnoQ5NmPhnrztHlE9XyQ45zTpm5VFDD5BSZ\nHGB2BGUvkUpLmxnzv+JDe/q/lVw51QoBp1TYdf2iWahKIijdb7oPWz0mY4GBYiqK\nR1k7Lv03GH9AIQajaUzsR0xX9A1cADeIlIVNlRnutlcBOSarYY/i9FI/ex889ucz\ngNYXwr2f7bAl+8+6x/zO6xsCvWDPKwagWqtmFIseRbP3fsqs5hH5gondBDDmlIY6\nyZXhl2YRNmBqMuOEVmuTlJi0g+e/aPOpw4aQOIB3xM+GGgOJd3GHLsYmDZIg69Z9\nIQE9oWE7Y4sDKC6MFJulA6e9paoLrL0C1VX/XWMq0QKBgQDqM1Qe5xQoJ3sHHV1M\nPqFOmXNUInFrdgGVsb3m+RD55FZ/FoTLTzXO/0Hgd7kTOcqo/Z2iVtivyY/PEYSx\naYuXQtUBLcAEBRO84j2SdcQxzguFHIB7Ren0wa477PmEAzIwIDCD9pl7KzymLYB3\nPGd0X/fvfSXEDtZ7Aa9xogU6OwKBgQDkS8nW93W6Z/mP+h0MOFHwGw/sWY8aTMlf\n5I7SZ7uyumncIMISuIpsH+qmQxwlrtG7m5O1iMA0KP9ygNnUWVbBxmGxxVYHry/B\nHYbNSjQN0wHAeS1d4tVTq0H+sZsYLWsQ3Nx3F3rowCLzSgYNSaU0WgB9FNBB4nVo\nq/ss6g7Z/QKBgA1/UczKIoZB6Dw7vAHF5kQCYfwqVAEOdv7qlHg4SHsuZrHCWXri\nIMbCPUizfa4W+ZANtcUCXlCbPDeB2fTjkVDxYBdGTLeulzmejE/hi6IXLuDICLuS\nBu69Ls5zVNn/2See40znrGbF0iP9oVa923SAh2h8/O00sbW7HiJdZRG7AoGBAKOZ\n4FIJ0jc8Ta6s6WYZcjaj3hxc7d1GC8WJcAQ+TFc/mZ8jZpCt6Jylnq15SFGE304X\nppmgH0UB4FW5GuE/CJoixV308breA1XcB/9T3svNW+MHs8glRwUHpGqV8nQ4EBLs\ng51gmTb0gddhQ8b/8MD8gn8gjEG6vLK/FGfSb8QtAoGAEWeLWX7oOYAlRwqa96Ch\nMcv8VtD2derkBlG8KyamHpKtAQNsWv37v7BzkERKLb0TPR6JwLlx6bpbadULFDub\nNhnoyPD6/Tt5o+xYRKgetV+Dtmc5vFEF3JPyy1DJMisXLSQ2T1O/+ylAgUMNX/mx\n2mpvPlixJ2ehBaQWYjKylyo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-serverless-use-case@serverless-sit-217120.iam.gserviceaccount.com",
+  "client_id": "109192410579521554976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-serverless-use-case%40serverless-sit-217120.iam.gserviceaccount.com"
+}
